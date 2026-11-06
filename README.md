@@ -19,7 +19,7 @@ Lately, I've been tinkering with new tools and different ways to build software.
 
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark" alt="MySQL, PostgreSQL, MongoDB, SQLite" />
 
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="Git, GitHub, Docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="Git, GitHub, Docker" />
 
 ---
 
